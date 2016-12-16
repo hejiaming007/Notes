@@ -8,7 +8,7 @@
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @grant        none
 // ==/UserScript==
-window.close();
+//window.close();
 //alert(123);
 this.$ = this.jQuery = jQuery.noConflict(true);
 
