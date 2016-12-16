@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My 1st Script
 // @namespace    http://www.jimmy.com/
-// @version      0.1
+// @version      0.2
 // @description  For all pages under https baidu, print hello world.
 // @author       Jimmy
 // @match        https://www.baidu.com/*
